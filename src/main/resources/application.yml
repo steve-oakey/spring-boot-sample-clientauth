@@ -6,6 +6,3 @@ server:
     trust-store: classpath:truststore.jks
     trust-store-password: password
     client-auth: need
-security:
-  headers:
-    hsts: NONE
